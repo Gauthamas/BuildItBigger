@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeDisplayLib</string>
+    <string name="error_message">Out of Jokes :(</string>
+</resources>

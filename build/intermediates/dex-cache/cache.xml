@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\pre-dexed\androidTest\debug\com.android.support-support-v4-23.0.1_160ea1a621a8499ecfb9fc6063d645af2c19ac3e.jar" />
+    </item>
+    <item
+        jar="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\pre-dexed\androidTest\debug\internal_impl-23.0.1_40b864ea199cd66eb3b23974006caab2431cca20.jar" />
+    </item>
+    <item
+        jar="C:\Users\gau\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\pre-dexed\androidTest\debug\support-annotations-23.0.1_ad78eb097de13debb1fcdefb5853e333cdf77ed3.jar" />
+    </item>
+    <item
+        jar="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="88304d6e341539089cef591d31a84f5ae0339bc3">
+        <dex dex="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\pre-dexed\androidTest\debug\classes_ff73953ac37f6955e4a38e45220fcd1771b1e060.jar" />
+    </item>
+    <item
+        jar="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\ud867-master\ud867-master\FinalProject\jokedisplaylib\build\intermediates\pre-dexed\androidTest\debug\com.android.support-appcompat-v7-23.0.1_1d58f6e335fb4dcaf7b16a1be16df5f6d93f1efc.jar" />
+    </item>
+
+</items>
